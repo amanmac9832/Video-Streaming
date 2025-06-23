@@ -10,8 +10,6 @@ Video-Streaming is a simple, elegant video streaming and upload platform built w
 - **Storage**: Supabase (for file storage)
 - **Frontend**: Jinja2 Templates + HTML/CSS
 - **Async Streaming**: httpx + StreamingResponse
-- **Deployment**: Docker + Render
-- **Styles**: Pure CSS (Bootstrap-inspired)
 
 ---
 
