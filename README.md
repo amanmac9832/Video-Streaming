@@ -26,9 +26,17 @@ Video-Streaming is a simple, elegant video streaming and upload platform built w
 
 ## 📸 Screenshots
 
-Coming soon...
+### 1.Home Page
 
----
+![Home Page](snapshot/home.png)
+
+### 2.Watch Page
+
+![Watch Page](snapshot/watch.jpeg)
+
+### 3.Upload Page
+
+## ![Upload Page](snapshot/upload.png)
 
 ## 🛠️ Installation & Setup
 
