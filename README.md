@@ -62,3 +62,13 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+### 4. Set up environment variables
+
+Create a .env file in the root directory:
+
+```bash
+SUPABASE_URL=https://your-project-id.supabase.co
+SUPABASE_KEY=your-anon-key
+SUPABASE_BUCKET=your-bucket-name
+```
