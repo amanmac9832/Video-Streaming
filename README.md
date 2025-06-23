@@ -43,14 +43,14 @@ cd TaskMate---Keeps_you_on_track
 
 ### 2. Create and activate a virtual environment
 
-### On Windows
+On Windows
 
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
 ```
 
-### On macOS/Linux
+On macOS/Linux
 
 ```bash
 python3 -m venv .venv
@@ -72,3 +72,11 @@ SUPABASE_URL=https://your-project-id.supabase.co
 SUPABASE_KEY=your-anon-key
 SUPABASE_BUCKET=your-bucket-name
 ```
+
+### 5. Run the server locally
+
+```bash
+uvicorn main:app --reload
+```
+
+Visit http://localhost:8000
